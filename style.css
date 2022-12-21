@@ -251,6 +251,8 @@ footer{
     color: white;
 }
 .footer-menu ul li a{
-    text
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
 
 }
