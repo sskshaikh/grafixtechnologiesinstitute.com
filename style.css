@@ -186,14 +186,27 @@ a{
     padding-top: 10px;
 
 }
-#a1 img, #a2 img, #a3 img, #a4 img, #a5 img, #a6 img{
-    width: 200px;
+.image-1{
+    width: 300px;
     height: 300px;
+    padding: 10px;
+    margin:px;
+    transition: 0.5s;
+    text-align: center;
     
 }
-#a1 img, #a2 img, #a3 img, #a4 img, #a5 img, #a6 img :hover{
-    hanging-punctuation: 1s;
+.image-1:hover{
+    z-index: 1;
+    transform: scale(1.1);
 }
+.image-1 img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
 #a1 p, #a2 p, #a3 p, #a4 p, #a5 p, #a6 p{
     font-size: 20px;
     padding-left: 30px;
@@ -239,6 +252,14 @@ a{
     color: white;
     font-size: 20px;
 }
+#b1 img{
+    transition: 0.5s;
+}
+#b1 img:hover{
+    z-index: 1;
+    transform: scale(1.1);
+}
+
 .video{
     width: 300px;
     height: 300px;
