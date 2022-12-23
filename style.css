@@ -277,6 +277,14 @@ footer{
 .content-p h2 a{
     color: white;
     font-size: 25px;
-    border-style: calc();
+}
+.elementor-icon-item-icon{
+    background-color: inherit;
+    position: static;
+    margin: 0;
+    align-items: center;
+    padding: 0;
+    line-height: 20px;
+    align-items: center;
 }
 
