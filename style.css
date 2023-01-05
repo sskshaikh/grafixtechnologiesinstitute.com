@@ -94,7 +94,7 @@ nav{
        
     }
     nav  li li:hover{
-        border-bottom: 2px solid red;
+        /* border-bottom: 2px solid red; */
         transition-duration: 2s;
         
     
