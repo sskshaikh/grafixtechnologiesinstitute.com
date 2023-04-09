@@ -548,6 +548,7 @@ footer{
     line-height: 30px;
     text-align: justify;
     font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .content-p h2{
@@ -555,10 +556,12 @@ footer{
     border-bottom: 2px solid white;
     line-height: 20px;
     color: white;
+    margin-bottom: 20px;
 }
 .content-p h2 a{
     color: white;
     font-size: 25px;
+   
 }
 .elementor-icon-item-icon{
     background-color: inherit;
